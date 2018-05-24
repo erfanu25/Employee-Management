@@ -1,0 +1,107 @@
+body{
+     font-family:Lucida Handwriting;
+    background-color: #5EFDFE;
+}
+input[type=button] {
+    width: 30%;
+    background-color: red;
+    color: white;
+    padding: 10px 7px;
+    margin: 4px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=button]:hover {
+    background-color: blue;
+}
+
+button[type=search] {
+    width: 10%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px 5px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+button[type=search]:hover {
+    background-color: blue;
+}
+button[type=in] {
+    width: 20%;
+    font-size: 40px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 40px 90px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 70px;
+    cursor: pointer;
+}
+button[type=in]:hover {
+    background-color: blue;
+}
+button[type=out] {
+    width: 20%;
+    font-size: 40px;
+    background-color: red;
+    color: white;
+    padding: 40px 90px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 70px;
+    cursor: pointer;
+}
+button[type=out]:hover {
+    background-color: green;
+}
+button {
+    width: 30%;
+    background-color: #4CAF45;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: red;
+}
+
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: lightgreen;
+}
+th {
+    background-color: #4CAF50;
+    border: 2px solid #332FBA ;
+    color: white;
+}
+
+td {
+    border: 2px solid #332FBA ;
+    text-align: left;
+    padding: 8px;
+}
+tr:hover {
+    background-color: lightblue;
+}
+div {
+    
+    text-align: center;
+  border-radius: 10px;
+    background-color: rgba(217, 159, 254, 0.4);
+    padding: 20px;
+  width:400px;
+  margin: auto;
+  
+  
+  
+}
